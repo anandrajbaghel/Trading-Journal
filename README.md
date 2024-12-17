@@ -9,7 +9,7 @@ A comprehensive web application designed to empower traders through meticulous t
 <br>
 
 <div align="center">
-
+<img width="960" alt="{E32B815D-DA26-470A-926E-E3ECEF2CC30F}" src="https://github.com/user-attachments/assets/1211104c-7499-4ecd-b908-f1c5758c067b" />
 </div>
 
 <br>
